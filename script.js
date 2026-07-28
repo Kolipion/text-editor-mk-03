@@ -8,7 +8,7 @@ document.getElementById("save").addEventListener("click", function(){
 
     emailjs.send(
         "service_yimquql",
-        "template_k5wrj1k",
+        "template_lrsgp8n",
         {
             message: text
         }
