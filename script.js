@@ -1,5 +1,5 @@
 emailjs.init({
-    publicKey: "t_HBf_gztN5fNCVX0"
+    publicKey: "8s5AdO0IZ99pi8O8d"
 });
 
 document.getElementById("save").addEventListener("click", function(){
@@ -8,7 +8,7 @@ document.getElementById("save").addEventListener("click", function(){
 
     emailjs.send(
         "service_yimquql",
-        "template_lrsgp8n",
+        "template_k5wrj1k",
         {
             message: text
         }
